@@ -5,6 +5,14 @@
   "author": "Anthology",
   "cover": "https://i.imgur.com/ONhpwrR.jpg",
   "chapters": {
+      "2": {
+        "title": "Easy Drive",
+        "volume": "3",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/wTBVgDX"
+        }
+      },
       "3": {
         "title": "Beneath the Snow, We Meet",
         "volume": "3",
