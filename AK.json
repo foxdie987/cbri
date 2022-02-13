@@ -10,9 +10,23 @@
       "volume": "3",
       "last_updated": "1644759487",
       "groups": {
-        "/proxy/api/imgur/chapter/u7CGuJB/": [
-          ""
-        ]
+        "": "/proxy/api/imgur/chapter/u7CGuJB"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "3",
+      "last_updated": "1644759610",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/xJPHtX0"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "3",
+      "last_updated": "1644759715",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pbPGOu5/"
       }
     }
   }
