@@ -4,5 +4,16 @@
   "artist": "Anthology",
   "author": "Anthology",
   "cover": "https://i.imgur.com/ONhpwrR.jpg",
-  "chapters": {}
+  "chapters": {
+    "3": {
+      "title": "3",
+      "volume": "3",
+      "last_updated": "1644759487",
+      "groups": {
+        "/proxy/api/imgur/chapter/u7CGuJB/": [
+          ""
+        ]
+      }
+    }
+  }
 }
