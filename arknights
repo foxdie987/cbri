@@ -1,0 +1,35 @@
+{
+  "title": "Arknights Comic Anthology",
+  "description": "Short comics from the official Arknights manga anthologies.",
+  "artist": "Various artists",
+  "author": "Anthology",
+  "cover": "https://i.imgur.com/ONhpwrR.jpg",
+  "chapters": {
+    "<chapter number>": {
+      "title": "Beneath the Snow, We Meet",
+      "volume": "Vol. 3 Ch. 3",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/u7CGuJB/"
+      },
+      "last_updated": "1616368746"
+    },
+   "chapters": {
+    "<chapter number>": {
+      "title": "You foolin' me? You tryin' to fool me? Well I ain’t fooled!",
+      "volume": "Vol. 3 Ch. 5",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/xJPHtX0/"
+      },
+      "last_updated": "1616368746"
+    },
+   "chapters": {
+    "<chapter number>": {
+      "title": "Whatcha Cooking, Shaw?",
+      "volume": "Vol. 3 Ch. 6",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/pbPGOu5/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
