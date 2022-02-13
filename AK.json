@@ -78,11 +78,19 @@
        }
      },
       "10": {
-        "title": "Perfect Communication",
+          "title": "Perfect Communication",
+          "volume": "3",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/QINhePu"
+         }
+       },
+      "12": {
+        "title": "Hoshiguma's Proposal",
         "volume": "3",
         "last_updated": "1644760523",
         "groups": {
-          "": "/proxy/api/imgur/chapter/QINhePu"
+          "": "/proxy/api/imgur/chapter/staFiyi"
        }
      }     
    }
