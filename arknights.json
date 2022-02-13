@@ -5,27 +5,27 @@
   "author": "Anthology",
   "cover": "https://i.imgur.com/ONhpwrR.jpg",
   "chapters": {
-    "<chapter number>": {
+    "3": {
       "title": "Beneath the Snow, We Meet",
-      "volume": "Vol. 3 Ch. 3",
+      "volume": "3",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/u7CGuJB/"
       },
       "last_updated": "1644756793"
     },
    "chapters": {
-    "<chapter number>": {
+    "5": {
       "title": "You foolin' me? You tryin' to fool me? Well I ain’t fooled!",
-      "volume": "Vol. 3 Ch. 5",
+      "volume": "3",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/xJPHtX0/"
       },
       "last_updated": "1644756793"
     },
    "chapters": {
-    "<chapter number>": {
+    "6": {
       "title": "Whatcha Cooking, Shaw?",
-      "volume": "Vol. 3 Ch. 6",
+      "volume": "3",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/pbPGOu5/"
       },
