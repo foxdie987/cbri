@@ -1,0 +1,19 @@
+{
+  "title": "Arknights Comic Anthology",
+  "description": "Arknights Comic Anthology Volume 2\nShort comics from the official Arknights manga anthologies.\n\nGo to [ https://foxdie.one ] for more Arknights comic collection.",
+  "artist": "Anthology",
+  "author": "Anthology",
+  "cover": "https://i.imgur.com/ONhpwrR.jpg",
+  "chapters":  {
+      "5": {
+        "title": "Poison Medicine",
+        "volume": "2",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/WLLr9Yk"
+        }
+      }
+  }  
+}
+
+
