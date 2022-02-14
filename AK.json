@@ -4,7 +4,7 @@
   "artist": "Anthology",
   "author": "Anthology",
   "cover": "https://i.imgur.com/ONhpwrR.jpg",
-  "chapters": {
+  "chapters":  {
       "5": {
         "title": "Poison Medicine",
         "volume": "2",
@@ -13,6 +13,8 @@
           "": "/proxy/api/imgur/chapter/WLLr9Yk"
         }
       },
+    },
+  "chapters": {
       "1": {
         "title": "Where Have You Been?",
         "volume": "3",
