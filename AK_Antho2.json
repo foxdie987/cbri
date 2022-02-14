@@ -5,6 +5,14 @@
   "author": "Anthology",
   "cover": "https://i.imgur.com/ONhpwrR.jpg",
   "chapters":  {
+      "1": {
+        "title": "The Assassin's Quiet Wish",
+        "volume": "2",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/RCEgD8x"
+        }
+      },
       "5": {
         "title": "Poison Medicine",
         "volume": "2",
@@ -23,5 +31,6 @@
       }
   }  
 }
+
 
 
