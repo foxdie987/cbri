@@ -5,6 +5,14 @@
   "author": "Anthology",
   "cover": "https://i.imgur.com/ONhpwrR.jpg",
   "chapters": {
+      "5": {
+        "title": "Poison Medicine",
+        "volume": "2",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/WLLr9Yk"
+        }
+      },
       "1": {
         "title": "Where Have You Been?",
         "volume": "3",
@@ -19,8 +27,8 @@
           "last_updated": "1644760523",
           "groups": {
             "": "/proxy/api/imgur/chapter/wTBVgDX"
-          }
-        },
+        }
+      },
       "3": {
         "title": "Beneath the Snow, We Meet",
         "volume": "3",
@@ -59,39 +67,58 @@
         "last_updated": "1644760523",
         "groups": {
           "": "/proxy/api/imgur/chapter/PTpqz9E"
-       }
-     },
+        }
+      },
       "8": {
         "title": "Coffee and Ink",
         "volume": "3",
         "last_updated": "1644760523",
         "groups": {
           "": "/proxy/api/imgur/chapter/rQNbq2l"
-       }
-     },
+        }
+      },
      "9": {
         "title": "Nabe Party Under the Kotatsu",
         "volume": "3",
         "last_updated": "1644760523",
         "groups": {
           "": "/proxy/api/imgur/chapter/qLBoup8"
-       }
-     },
+        }
+      },
       "10": {
           "title": "Perfect Communication",
           "volume": "3",
           "last_updated": "1644760523",
           "groups": {
             "": "/proxy/api/imgur/chapter/QINhePu"
-         }
-       },
+        }
+      },
+      "11": {
+        "title": "Lungmen Girls' Talk",
+        "volume": "3",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/jeYMncf"
+        }
+      },
       "12": {
         "title": "Hoshiguma's Proposal",
         "volume": "3",
         "last_updated": "1644760523",
         "groups": {
           "": "/proxy/api/imgur/chapter/staFiyi"
-       }
-     }     
-   }
+        }
+      },
+      "13": {
+        "title": "Extraordinary Rhodes",
+        "volume": "3",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/Xrgn5Py"
+        }
+      }
+    }     
+  }
 }
+
+
