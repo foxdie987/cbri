@@ -1,0 +1,25 @@
+{
+  "title": "Arknights Comic Anthology",
+  "description": "",
+  "artist": "Anthology",
+  "author": "Anthology",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Where Have You Been?",
+      "volume": "3",
+      "last_updated": "1644804838",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/UxxUoEB"
+      }
+    },
+    "5": {
+      "title": "Poison Medicine",
+      "volume": "2",
+      "last_updated": "1644804816",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/WLLr9Yk"
+      }
+    }
+  }
+}
