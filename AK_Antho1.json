@@ -38,67 +38,83 @@
           }
         },
         "5": {
-          "title": "Poison Medicine",
-          "volume": "2",
+          "title": "The Daily Logistics Grind",
+          "volume": "1",
           "last_updated": "1644760523",
           "groups": {
-            "": "/proxy/api/imgur/chapter/WLLr9Yk"
+            "": "/proxy/api/imgur/chapter/AjmztMg"
           }
         },
         "6": {
-          "title": "Dangerous Goods Prohibited",
-          "volume": "2",
+          "title": " Planning For Tomorrow",
+          "volume": "1",
           "last_updated": "1644760523",
           "groups": {
-            "": "/proxy/api/imgur/chapter/LdVoRd6"
+            "": "/proxy/api/imgur/chapter/AqleHT5"
           }
         },
         "7": {
-          "title": "Fall Knights",
-          "volume": "2",
+          "title": " A Karlan Teatime",
+          "volume": "1",
           "last_updated": "1644760523",
           "groups": {
-            "": "/proxy/api/imgur/chapter/fbBtbRx"
+            "": "/proxy/api/imgur/chapter//ZaxEhZ4"
           }
         },
         "8": {
-          "title": "A Certain Girl’s Misfortune",
-          "volume": "2",
+          "title": " …In the Right Hands",
+          "volume": "1",
           "last_updated": "1644760523",
           "groups": {
-            "": "/proxy/api/imgur/chapter/CZzAyrS"
+            "": "/proxy/api/imgur/chapter/qmrbjza"
           }
         },
         "9": {
-          "title": "A Fork on the Board",
-          "volume": "2",
+          "title": "At Summer’s End",
+          "volume": "1",
           "last_updated": "1644760523",
           "groups": {
-            "": "/proxy/api/imgur/chapter/FeCopzi"
+            "": "/proxy/api/imgur/chapter/6Ukfehb"
           }
         },
         "10": {
-          "title": "Strange Workplace",
-          "volume": "2",
+          "title": "No Stopping ’til We See the Credits!",
+          "volume": "1",
           "last_updated": "1644760523",
           "groups": {
-            "": "/proxy/api/imgur/chapter/4CaqCAd"
+            "": "/proxy/api/imgur/chapter/As4N49r"
           }
         },
         "11": {
-          "title": "Pure and Innocent Red and Blue",
-          "volume": "2",
+          "title": "Unparalleled Medicine",
+          "volume": "1",
           "last_updated": "1644760523",
           "groups": {
-            "": "/proxy/api/imgur/chapter/XZPsgJp"
+            "": "/proxy/api/imgur/chapter/bVp1y7X"
           }
         },
         "12": {
-          "title": "In a Siesta I Never Knew",
-          "volume": "2",
+          "title": "The Ever-Reliable Vigna!",
+          "volume": "1",
           "last_updated": "1644760523",
           "groups": {
-            "": "/proxy/api/imgur/chapter/MDNTgmO"
+            "": "/proxy/api/imgur/chapter/TcJhxqC"
+          }
+        },
+        "13": {
+          "title": "A Life Less Lived",
+          "volume": "1",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/p5Q7EPe"
+          }
+        },
+        "14": {
+          "title": "Family Vacation",
+          "volume": "1",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/tAX8ZgZ"
           }
         }
     }  
