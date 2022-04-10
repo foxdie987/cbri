@@ -1,0 +1,109 @@
+{
+    "title": "Arknights Comic Anthology",
+    "description": "Arknights Comic Anthology Volume 1.\nShort comics from the official Arknights manga anthologies, based off the game of the same name.\n\n------\nGo to [  https://foxdie.one/ark1  ] for more Arknights comic collection.",
+    "artist": "Anthology",
+    "author": "Anthology",
+    "cover": "https://i.imgur.com/WebYLGz.jpg",
+    "chapters":  {
+        "1": {
+          "title": "The Sarkaz’s Fleeting Tranquility",
+          "volume": "1",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/hgTPR4J"
+          }
+        },
+        "2": {
+          "title": "I Dream of Idols",
+          "volume": "1",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/zZtemUC"
+          }
+        },
+        "3": {
+          "title": "Danger: Catnip!",
+          "volume": "1",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/OLbg5al"
+          }
+        },
+        "4": {
+          "title": "Together with Tenzin",
+          "volume": "1",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/Xjdgv8R"
+          }
+        },
+        "5": {
+          "title": "Poison Medicine",
+          "volume": "2",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/WLLr9Yk"
+          }
+        },
+        "6": {
+          "title": "Dangerous Goods Prohibited",
+          "volume": "2",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/LdVoRd6"
+          }
+        },
+        "7": {
+          "title": "Fall Knights",
+          "volume": "2",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/fbBtbRx"
+          }
+        },
+        "8": {
+          "title": "A Certain Girl’s Misfortune",
+          "volume": "2",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/CZzAyrS"
+          }
+        },
+        "9": {
+          "title": "A Fork on the Board",
+          "volume": "2",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/FeCopzi"
+          }
+        },
+        "10": {
+          "title": "Strange Workplace",
+          "volume": "2",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/4CaqCAd"
+          }
+        },
+        "11": {
+          "title": "Pure and Innocent Red and Blue",
+          "volume": "2",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/XZPsgJp"
+          }
+        },
+        "12": {
+          "title": "In a Siesta I Never Knew",
+          "volume": "2",
+          "last_updated": "1644760523",
+          "groups": {
+            "": "/proxy/api/imgur/chapter/MDNTgmO"
+          }
+        }
+    }  
+  }
+  
+  
+  
+  
