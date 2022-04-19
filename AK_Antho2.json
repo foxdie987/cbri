@@ -108,6 +108,30 @@
         "groups": {
           "": "/proxy/api/imgur/chapter/KR20Z8s"
         }
+      },
+      "14": {
+        "title": "Napping Advice",
+        "volume": "2",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/CcqkZek"
+        }
+      },
+      "15": {
+        "title": "To Eat and Be Merry With You",
+        "volume": "2",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/zjwzIhZ"
+        }
+      },
+      "16": {
+        "title": "Everyday Rhodes",
+        "volume": "2",
+        "last_updated": "1644760523",
+        "groups": {
+          "": "/proxy/api/imgur/chapter/FNYdN3t"
+        }
       }
   }  
 }
